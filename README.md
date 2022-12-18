@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dark4rc3-0
+- 👋 Hi, I’m @r00t0rd3r66
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning cybersecurity in TryHackMe and self studying python and looking forward to study Bash 
 - 📫 Reach me on Twitter @dark4rc3
